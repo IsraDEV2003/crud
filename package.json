@@ -13,10 +13,14 @@
   "license": "ISC",
   "packageManager": "pnpm@10.12.4",
   "dependencies": {
+    "bcrypt": "^6.0.0",
     "cors": "^2.8.5",
     "dotenv": "^17.1.0",
     "express": "^5.1.0",
+    "json-2-csv": "^5.5.9",
     "mysql2": "^3.14.1",
+    "pdfkit": "^0.17.1",
+    "pdfkit-table": "^0.1.99",
     "sequelize": "^6.37.7"
   },
   "devDependencies": {
